@@ -21,7 +21,7 @@ This is a simple demo app that creates buttons to toggle ON/OFF the bluetooth ra
 
 1. [Android Studio IDE and SDK](http://developer.android.com/sdk/index.html)
 2. [HC-06 bluetooth module](https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-06/resources/hc06.pdf)
-3. Arudino Uno 
+3. Arduino Uno 
 4. A few breadboard wires to connect the HC-06 to the Arduino
 
 ## Setup
@@ -29,7 +29,7 @@ This is a simple demo app that creates buttons to toggle ON/OFF the bluetooth ra
 1. Clone this repo and open it inside of Android Studio. Note, a later SDK will work just fine (SDK 23+)
 2. Build the app
 3. Install the app to your connected Android phone. You will need to install special drivers and enable USB debugging on your phone for this to work. There are plenty of tutorials on the web for this.
-4. [Clone this Arudino gist](https://gist.github.com/bauerjj/424442ed08647a26652f9fe0736bfa28) and program your Arudino
+4. [Clone this Arduino gist](https://gist.github.com/bauerjj/424442ed08647a26652f9fe0736bfa28) and program your Arduino
 5. Run the application on your phone after it installs. Connect to the HC-06 and you should see a number incrementing on the application every second. 
 
 ## Issues
